@@ -1,6 +1,9 @@
 # Chess Puzzle Solver
 
-This program fetches daily chess puzzles from Chess.com, solves them using Stockfish, and creates a visual recording of the solution.
+This program fetches daily chess puzzles from Chess.com, solves them using Stockfish, and creates a visual recording of the solution and uploads it to Youtube. I have been uploading them on Youtube on the channel Gideon Plays Chess helping get thousands of views and 100+ subscribers.
+
+<img width="633" height="906" alt="Screenshot 2025-07-19 at 3 58 36 PM" src="https://github.com/user-attachments/assets/e3b02dce-f8d6-426e-8ce9-73dc6ed4c3ff" />
+
 
 ## Prerequisites
 
